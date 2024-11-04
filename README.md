@@ -7,3 +7,7 @@ Responsive demo website for a MMA gym. Built with HTML5, CSS3 and Javascript.
 
 ## Live Demo
 https://lmma-academy.netlify.app/
+
+## Website Features:
+- Fully responsive design with adaptive layouts for mobile and desktop.
+- Engaging call-to-action sections for signing up or viewing programs.
